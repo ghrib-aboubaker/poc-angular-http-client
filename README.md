@@ -1,7 +1,6 @@
 # PocAngularHttpClient
 
 ## Pré-requis
-- Environnement Linux
 - Git
 - NodeJS v6.10
 - NPM v4.3
